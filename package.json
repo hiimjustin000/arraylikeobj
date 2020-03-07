@@ -1,0 +1,12 @@
+{
+  "name": "arraylikeobj",
+  "version": "1.0.0",
+  "description": "Create an array-like object.",
+  "main": "arraylike.js",
+  "author": "Justin Pridgen",
+  "license": "MIT",
+  "repository": "hiimjustin000/arraylikeobj",
+  "dependencies": {
+    "@types/node": "^13.7.7"
+  }
+}
