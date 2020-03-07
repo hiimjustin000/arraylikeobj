@@ -22,4 +22,4 @@ keys() | The keys of the object. | number (for every entry) | true
 values() | The values of the object. | type (for every entry) | true
 toString(separator?: string) | A string representation of the object, with the values joined by the separator. | string | false
 
-Inspired by [Ecma](https://www.ecmainternational.org).
+Inspired by [Ecma](https://www.ecma-international.org).
